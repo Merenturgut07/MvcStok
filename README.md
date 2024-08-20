@@ -32,14 +32,23 @@
 ![Bootstrap Example - Profil 1 - Microsoft​ Edge 20 08 2024 13_46_54](https://github.com/user-attachments/assets/f7d868ce-8bb3-486d-a39d-5978e0da67f5)
 ![Bootstrap Example - Profil 1 - Microsoft​ Edge 20 08 2024 13_47_01](https://github.com/user-attachments/assets/abaed95d-c8fa-42c2-9337-227cc2eb0d93)
 ![Bootstrap Example - Profil 1 - Microsoft​ Edge 20 08 2024 13_47_18](https://github.com/user-attachments/assets/5f1891a6-4b62-4aef-aa67-b0424e34b96c)
-
 ![Bootstrap Example - Profil 1 - Microsoft​ Edge 20 08 2024 13_47_09](https://github.com/user-attachments/assets/d71c69e1-712c-454f-b101-d19a9f5b0bcc)
 
 
 
 # Satış Yapma İşlemi
-## Ürün Bilgileri Girilerek Satış yapma işlemleri gerçekleştirilmektedir.
+## Ürün Bilgileri popup modal kullanılarak oluşturulmuştur.  Açılan sayfaya ürün girilerek satış yapma işlemleri gerçekleştirilmektedir.
 ![Bootstrap Example - Profil 1 - Microsoft​ Edge 20 08 2024 11_43_55](https://github.com/user-attachments/assets/cb233316-44ac-47fe-bb49-ae50646d1d48)
+
+
+# Hakkımda Kısmı
+## Hakkımda Bilgisi popup modal kullanılarak oluşturulmuştur
+![Bootstrap Example ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 12_00_12](https://github.com/user-attachments/assets/b887e9f6-5239-4e10-8a9d-d867ea0c9e3f)
+
+# Kullanılan Tablolar
+
+## Tablo ilişkileri
+![DESKTOP-FCK5R8M_SQLEXPRESS MvcDbStok - Diagram_0_ - Microsoft SQL Server Management Studio 20 08 2024 12_01_00](https://github.com/user-attachments/assets/a1ce74e3-7ed5-45a4-b6dc-398d60e2a971)
 
 
 
