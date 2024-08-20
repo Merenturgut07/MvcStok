@@ -21,7 +21,7 @@
 
 
 # Ürün Kısımı
-##Yeni Ürün ekleme,silme,güncelleme işlemleri yapılmaktadır.
+## Yeni Ürün ekleme,silme,güncelleme işlemleri yapılmaktadır.
 ![Bootstrap Example - Profil 1 - Microsoft​ Edge 20 08 2024 11_41_11](https://github.com/user-attachments/assets/633a9872-b041-42f0-853a-d8198b7d05e4)
 ![Bootstrap Example - Profil 1 - Microsoft​ Edge 20 08 2024 11_42_16](https://github.com/user-attachments/assets/59550dbb-1341-442f-a37e-08d16139c2ce)
 ![Bootstrap Example - Profil 1 - Microsoft​ Edge 20 08 2024 11_42_28](https://github.com/user-attachments/assets/d1eae7c9-1c70-48d8-80f6-8ac09545fc0b)
