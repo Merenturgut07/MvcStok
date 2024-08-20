@@ -161,6 +161,9 @@
     <Compile Include="Models\Enty\sysdiagrams.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
+    <Compile Include="Models\Enty\TBLHAKKIMDA.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
     <Compile Include="Models\Enty\TBLKATEGORILER.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>

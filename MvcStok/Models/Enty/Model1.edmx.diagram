@@ -13,6 +13,7 @@
         <AssociationConnector Association="MvcDbStokModel.FK_TBLURUNLER_TBLKATEGORILER1" ManuallyRouted="false" />
         <AssociationConnector Association="MvcDbStokModel.FK_TBLSATISLAR_TBLMUSTERILER" ManuallyRouted="false" />
         <AssociationConnector Association="MvcDbStokModel.FK_TBLSATISLAR_TBLURUNLER1" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="MvcDbStokModel.TBLHAKKIMDA" Width="1.5" PointX="7.75" PointY="1.5" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

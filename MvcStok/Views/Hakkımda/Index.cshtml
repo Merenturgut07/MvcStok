@@ -1,28 +1,47 @@
-﻿
+﻿@using MvcStok.Models.Enty;
+@model List<TBLHAKKIMDA>
+
 @{
     ViewBag.Title = "Index";
     Layout = "~/Views/Shared/_MainLayout.cshtml";
 }
 
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#Modal1">
-   Hakkımda
+    Hakkımda
 </button>
 
-<div class="modal" id="Modal1">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h2 class="modal-title">Hakkımda Sayfası </h2>
-            </div>
-            <form>
-                <div class="modal-body">
-                    Tarih 22.02.2024 Günlerden Perşembe Murat Yücedağ'ın ,YouTube'ta bulunan "50 Derste MVC seriisndeki 45. videodaki ek olarak bizden yapmamızı istediği kısım "
+@foreach (var item in Model)
+{
+    <div class="modal" id="Modal1">
+
+        <div class="modal-dialog">
+
+            <div class="modal-content">
+
+
+                <div class="modal-header">
+                    <h2 class="modal-title">Hakkımda Sayfası </h2>
+                </div>
+
+                <form>
+
+                    <div class="modal-body">
+
+                        @item.HakkımdaBasligi
+
                     </div>
 
-  
-            </form>
+
+
+                </form>
+                
+
+            </div>
+
         </div>
+
     </div>
-    </div>
+}
+
 
 

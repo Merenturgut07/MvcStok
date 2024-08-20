@@ -32,7 +32,7 @@ namespace MvcStok.Controllers
         {
             if (!ModelState.IsValid)
             {
-                return View("YeniKategori");
+                return View("YeniKategori","Index");
             }
             db.TBLKATEGORILER.Add(p1);
             db.SaveChanges();

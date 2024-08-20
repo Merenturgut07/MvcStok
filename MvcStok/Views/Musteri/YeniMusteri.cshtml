@@ -10,16 +10,18 @@
         @Html.TextBoxFor(m => m.MUSTERIAD, new { @class = "form-control" })
         @Html.ValidationMessageFor(m => m.MUSTERIAD, "", new { @style = "color:blue" })
     </div>
-
+    <br />
     <div>
         <label> Müşreti Soyad</label>
         <input type="text" class="form-control" name="MUSTERISOYAD" />
     </div>
+    <br />
     <div style="margin-top:15px">
         <button class="btn btn-info" id="btn1">  Müşteri Ekle</button>
     </div>
+    <br />
     <script>
-        $('#btn1').clik(function(){
+        $('#btn1').clik(function () {
             alert('Müşteri Ekleme İşlemi Yapıldı...!');
         });
     </script>
