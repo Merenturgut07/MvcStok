@@ -34,7 +34,7 @@
 ![Bootstrap Example - Profil 1 - Microsoft​ Edge 20 08 2024 13_46_54](https://github.com/user-attachments/assets/f7d868ce-8bb3-486d-a39d-5978e0da67f5)
 ![Bootstrap Example - Profil 1 - Microsoft​ Edge 20 08 2024 13_47_01](https://github.com/user-attachments/assets/abaed95d-c8fa-42c2-9337-227cc2eb0d93)
 ![Bootstrap Example - Profil 1 - Microsoft​ Edge 20 08 2024 13_47_18](https://github.com/user-attachments/assets/5f1891a6-4b62-4aef-aa67-b0424e34b96c)
-![Bootstrap Example - Profil 1 - Microsoft​ Edge 20 08 2024 13_47_09](https://github.com/user-attachments/assets/d71c69e1-712c-454f-b101-d19a9f5b0bcc)
+![Bootstrap Example - Profil 1 - Microsoft​ Edge 6 09 2024 12_24_48](https://github.com/user-attachments/assets/1558faf1-f345-45d9-b025-1c1cae728951)
 
 
 
