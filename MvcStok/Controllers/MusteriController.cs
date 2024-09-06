@@ -37,10 +37,13 @@ namespace MvcStok.Controllers
             }
             db.TBLMUSTERILER.Add(p1);
             db.SaveChanges();
-            return View();
-        }
+			return RedirectToAction("Index");
+		}
 
-        public ActionResult SİL(int id)
+
+
+
+		public ActionResult SİL(int id)
         {
             var mstr = db.TBLMUSTERILER.Find(id);
             db.TBLMUSTERILER.Remove(mstr);

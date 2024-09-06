@@ -5,6 +5,7 @@
 }
 
 <form method="post" class="form-group">
+
     <div>
         <label> Müşreti Adı</label>
         @Html.TextBoxFor(m => m.MUSTERIAD, new { @class = "form-control" })
@@ -19,12 +20,19 @@
     <div style="margin-top:15px">
         <button class="btn btn-info" id="btn1">  Müşteri Ekle</button>
     </div>
-    <br />
+
     <script>
-        $('#btn1').clik(function () {
+        $('#btn1').click(function () {
             alert('Müşteri Ekleme İşlemi Yapıldı...!');
         });
     </script>
 
+
+
 </form>
+
+
+
+
+
 

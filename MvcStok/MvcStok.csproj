@@ -488,13 +488,13 @@
     <Content Include="Views\Urun\Index.cshtml" />
     <Content Include="Views\Musteri\Index.cshtml" />
     <Content Include="Views\Kategori\YeniKategori.cshtml" />
-    <Content Include="Views\Musteri\YeniMusteri.cshtml" />
     <Content Include="Views\Urun\UrunEkle.cshtml" />
     <Content Include="Views\Kategori\KategoriGetir.cshtml" />
     <Content Include="Views\Urun\UrunGetir.cshtml" />
     <Content Include="Views\Musteri\MusteriGetir.cshtml" />
     <Content Include="Views\Satis\Index.cshtml" />
     <Content Include="Views\Hakkımda\Index.cshtml" />
+    <Content Include="Views\Musteri\YeniMusteri.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
