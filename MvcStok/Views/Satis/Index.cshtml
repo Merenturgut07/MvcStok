@@ -17,24 +17,16 @@
             </div>
             <form method="post" action="/Satis/YeniSatis/">
                 <div class="modal-body">
-                    <label>
-                        Ürün Adı
-                    </label>
+                    <label>Ürün Adı </label>
                     @Html.TextBoxFor(m => m.URUN, new { @class = "form-control" })
                     <br />
-                    <label>
-                        Müşteri Adı Saoyadı
-                    </label>
+                    <label> Müşteri Adı Saoyadı</label>
                     @Html.TextBoxFor(m => m.MUSTERI, new { @class = "form-control" })
                     <br />
-                    <label>
-                        Adet
-                    </label>
+                    <label> Adet </label>
                     @Html.TextBoxFor(m => m.ADET, new { @class = "form-control" })
                     <br />
-                    <label>
-                        Fiyat
-                    </label>
+                    <label>  Fiyat  </label>
                     @Html.TextBoxFor(m => m.FİYAT, new { @class = "form-control" })
                     <br />
                     <button type="submit" class="btn btn-info"> Satış İşlemini Yap </button>

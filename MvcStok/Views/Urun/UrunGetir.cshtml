@@ -7,8 +7,7 @@
 @using (Html.BeginForm("Guncelle", "Urun", FormMethod.Post))
 {
     <div class="form-group">
-        @Html.LabelFor(m => m.URUNID)
-        @Html.TextBoxFor(m => m.URUNID, new { @class = "form-control" })
+        @Html.HiddenFor(x=>x.URUNID)
         <br />
         @Html.LabelFor(m => m.URUNAD)
         @Html.TextBoxFor(m => m.URUNAD, new { @class = "form-control" })
@@ -27,8 +26,8 @@
         @Html.TextBoxFor(m => m.STOK, new { @class = "form-control" })
 
     </div>
-    <DİV>
+    <div>
         <button class="btn btn-warning"> Ürün Güncelle </button>
-    </DİV>
+    </div>
 }
 
